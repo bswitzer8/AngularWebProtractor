@@ -30,13 +30,13 @@ then to make sure it is updated copy/type:
 > webdriver-manager update
 
 and finally copy/type:
-webdriver-manager start
+> webdriver-manager start
 
 there, now the Selenium Server is running. We can test! 
 
-Now, open up another Command Line and navigate to app/protractor
+Now, open up another Command Line and navigate to /protractor
 and copy/type:
 > protractor conf.js
 
-this will fun the tests!
+this will run the tests!
 
